@@ -18,7 +18,7 @@ JavaScript
 # How to Run the Project:
 
 Download or clone the repository:
-git clone https://github.com/your-username/quiz-game.git
+git clone https://github.com/architayadav24/quiz-game.git
 Open the project folder.
 Launch index.html in your browser.
 How to Play
